@@ -1,0 +1,5 @@
+-1 4. missing max_features
+-1 5 model.get_feature_importance(prettified=True)
+-1 8. one-hot ShelveLoc
+-2 RandomForest not Catboost
+-1 12 'custom_loss': 'Accuracy', not AUC

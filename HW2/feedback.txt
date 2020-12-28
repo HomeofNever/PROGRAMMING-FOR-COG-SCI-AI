@@ -1,0 +1,3 @@
+-2 More plots, show correlations
+-2 run_knn don’t split data, it is split in run_model function
+-1 run_log_regress didn’t call run model

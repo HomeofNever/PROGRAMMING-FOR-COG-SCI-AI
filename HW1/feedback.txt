@@ -1,0 +1,5 @@
+-.75 9 can’t have continuous variable as hue
+-.5 15-16  need x_train[:,scale_idxs] on left hand side, same for x_test
+-.5 24. plt.plot(yhat,y_test-yhat,'bo')
+-.5 26,29,30 didn’t scale
+-.5 28 no fat, sugars twice
